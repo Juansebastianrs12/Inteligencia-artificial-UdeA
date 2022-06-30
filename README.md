@@ -1,11 +1,11 @@
-# Inteligencia-artificial-UdeA\
+# Inteligencia-artificial-UdeA
 
-\#Juan Pablo Restrepo Mancilla, 1000203868\\
+#Juan Pablo Restrepo Mancilla, 1000203868
 
-\#Juan Sebastian Rodríguez Solarte, 1192761315\\
+#Juan Sebastian Rodríguez Solarte, 1192761315
 
-\#César Augusto Ruiz Parra, 1088027228\\
+#César Augusto Ruiz Parra, 1088027228
 
-\#bioingeniería.\
+#bioingeniería.
 
 #dataset: https://bbci.de/competition/iv/?fbclid=IwAR16-KF5s7zDVNOFYqnGQGoRFJ1cBv8yHdMOB0d4jgT7MQoVZmTTcbzYcNw
