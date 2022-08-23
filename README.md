@@ -9,3 +9,5 @@
 #bioingeniería.
 
 #dataset: https://bbci.de/competition/iv/?fbclid=IwAR16-KF5s7zDVNOFYqnGQGoRFJ1cBv8yHdMOB0d4jgT7MQoVZmTTcbzYcNw
+
+#video_PROYECTO_ENTREGA2:https://www.youtube.com/watch?v=9SrTk5bmWu0
