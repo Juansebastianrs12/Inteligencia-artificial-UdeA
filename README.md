@@ -12,11 +12,15 @@
 
 #Para utilizar el dataset desde coolab, debe crearse un acceso directo desde el drive, con el siguiente enlace
 
-#dataset_drive:https://drive.google.com/drive/folders/1P2Yl_d_Y0GUqp2zOynKhoHbJ9OvSI9xk?usp=sharing
+#dataset_drive:
+[Abrir desde Drive]
+(https://drive.google.com/drive/folders/1P2Yl_d_Y0GUqp2zOynKhoHbJ9OvSI9xk?usp=sharing)
 
-#video_PROYECTO_ENTREGA2:https://www.youtube.com/watch?v=9SrTk5bmWu0
+#video_PROYECTO_ENTREGA2:
+[Abrir desde youtube](https://www.youtube.com/watch?v=9SrTk5bmWu0)
 
-#video_PROYECTO_INFORME_FINAL:https://www.youtube.com/watch?v=DmUHik1eWzE
+#video_PROYECTO_INFORME_FINAL:
+[Abrir desde youtube](https://www.youtube.com/watch?v=DmUHik1eWzE)
 
 #Para abrir el notebook del proyecto final en coolab el siguiente enlace 
-[Abrir desde colab](https://colab.research.google.com/drive/1w-RmRANesSKpDkk3bbHmpPg6xAdaabOy#scrollTo=-yEJ7JMc2Jvz)
+[Abrir desde Coolab](https://colab.research.google.com/drive/1w-RmRANesSKpDkk3bbHmpPg6xAdaabOy#scrollTo=-yEJ7JMc2Jvz)
