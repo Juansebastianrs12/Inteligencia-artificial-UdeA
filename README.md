@@ -16,3 +16,4 @@
 #video_PROYECTO_ENTREGA2:https://www.youtube.com/watch?v=9SrTk5bmWu0
 
 #video_PROYECTO_INFORME_FINAL:https://www.youtube.com/watch?v=DmUHik1eWzE
+Para abrir el notebook en coolab el siguiente enlace [Abrir desde colab]https://colab.research.google.com/drive/1w-RmRANesSKpDkk3bbHmpPg6xAdaabOy#scrollTo=-yEJ7JMc2Jvz
